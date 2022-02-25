@@ -1,0 +1,14 @@
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\bin\Debug\InkPad.exe.config
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\bin\Debug\InkPad.exe
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\bin\Debug\InkPad.pdb
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\obj\Debug\MainWindow.g.cs
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\obj\Debug\App.g.cs
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\obj\Debug\InkPad_MarkupCompile.cache
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\obj\Debug\InkPad_MarkupCompile.lref
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\obj\Debug\MainWindow.baml
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\obj\Debug\InkPad.g.resources
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\obj\Debug\InkPad.Properties.Resources.resources
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\obj\Debug\InkPad.csproj.GenerateResource.cache
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\obj\Debug\InkPad.csproj.CoreCompileInputs.cache
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\obj\Debug\InkPad.exe
+C:\Users\79222\source\repos\WPF\InkPad\InkPad\obj\Debug\InkPad.pdb

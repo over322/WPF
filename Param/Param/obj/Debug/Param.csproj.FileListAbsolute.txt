@@ -1,0 +1,15 @@
+C:\Users\79222\source\repos\WPF\Param\Param\bin\Debug\Param.exe.config
+C:\Users\79222\source\repos\WPF\Param\Param\bin\Debug\Param.exe
+C:\Users\79222\source\repos\WPF\Param\Param\bin\Debug\Param.pdb
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\Param.csprojAssemblyReference.cache
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\MainWindow.g.cs
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\App.g.cs
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\Param_MarkupCompile.cache
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\Param_MarkupCompile.lref
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\MainWindow.baml
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\Param.g.resources
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\Param.Properties.Resources.resources
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\Param.csproj.GenerateResource.cache
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\Param.csproj.CoreCompileInputs.cache
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\Param.exe
+C:\Users\79222\source\repos\WPF\Param\Param\obj\Debug\Param.pdb
